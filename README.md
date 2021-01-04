@@ -10,3 +10,5 @@ Seeing as how I've never done this before I'd like to really get to it.
 3. This line item, if successful the way I intend, will have been the result of a pull request.
 
 4. This is all done by memory using branches and push and pull requests.
+
+5. This was done with a branch and a CLI pull request.
