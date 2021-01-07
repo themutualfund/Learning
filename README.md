@@ -14,3 +14,5 @@ Seeing as how I've never done this before I'd like to really get to it.
 5. This was done with a branch and a CLI pull request.
 
 6. This is showing Dakota branching.
+
+7. Yet another branch with Dakota, but this time new from the start.
