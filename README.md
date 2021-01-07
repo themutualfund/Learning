@@ -18,3 +18,5 @@ Seeing as how I've never done this before I'd like to really get to it.
 7. Yet another branch with Dakota, but this time new from the start.
 
 8. Showing Dakota Working Copy
+
+9. This is a test of Textastic integrating with Working Copy.
